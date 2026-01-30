@@ -1,4 +1,4 @@
-# 🎨 Thinking with Comics
+# 🎨 Thinking with Comics, Reason with Stories!
 
 **Enhancing LLM Generative Capabilities through Structured Visual Storytelling**
 
