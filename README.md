@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 <p align="center">
-  <img src="figures/overview.png" alt="Thinking with Comics Overview" width="800">
+  <img src="figures/benchmark_01.png" alt="Thinking with Comics Overview" width="1024">
 </p>
 
 ## 📖 Overview
