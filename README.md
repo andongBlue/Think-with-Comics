@@ -2,7 +2,6 @@
 
 **Enhancing LLM Generative Capabilities through Structured Visual Storytelling**
 
-[![Paper](https://img.shields.io/badge/Paper-ICML%202026-blue)](https://arxiv.org/abs/xxxx.xxxxx)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 <p align="center">
