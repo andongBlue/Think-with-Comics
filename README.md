@@ -8,6 +8,10 @@
   <img src="figures/benchmark_01.png" alt="Thinking with Comics Overview" width="1024">
 </p>
 
+ ## 📢 **Announcement**
+
+📢 **Update 1:**  The project code will be open-sourced this week. Stay tuned. 
+
 ## 📖 Overview
 
 **Thinking with Comics (TwC)** is a novel reasoning paradigm that leverages sequential comic panels to enhance the reasoning capabilities of Vision-Language Models (VLMs). Unlike traditional "Thinking with Text" (Chain-of-Thought) or "Thinking with Video" approaches, our method uses comics as an intermediate reasoning medium that:
