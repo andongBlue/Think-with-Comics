@@ -224,11 +224,15 @@ Panel shuffling causes >40% accuracy drop, confirming models use temporal logic 
 If you find this work useful, please cite:
 
 ```bibtex
-@inproceedings{author2026thinking,
-  title={Thinking with Comics: Enhancing LLM Generative Capabilities through Structured Visual Storytelling},
-  author={Author1, Firstname1 and Author2, Firstname2 and others},
-  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
-  year={2026}
+@article{chen2026thinking,
+  title={Thinking with Comics: Enhancing {LLM} Generative Capabilities through Structured Visual Storytelling},
+  author={Chen, Andong and Zhu, Wenxin and Ding, Qiuyu and Song, Yuchen and Yang, Muyun and Zhao, Tiejun},
+  journal={arXiv preprint arXiv:2602.02453},
+  year={2026},
+  eprint={2602.02453},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  url={https://arxiv.org/abs/2602.02453}
 }
 ```
 
@@ -238,13 +242,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Image generation powered by [Nano Banana Pro](https://example.com)
-- Datasets: GSM8K, MATH, MathVista, DocVQA, CulturalBench, eBDtheque
+- Image generation powered by [Nano Banana Pro](https://blog.google/innovation-and-ai/products/nano-banana-pro/)
+- Datasets: GSM8K, MATH, MathVista, DocVQA, CulturalBench
 
 ## 📧 Contact
 
 For questions or feedback, please open an issue or contact:
-- Email: author@university.edu
+- Email: ands691119@gmail.com
 
 ---
 
